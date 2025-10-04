@@ -1,7 +1,3 @@
-layout: page
-title: "Personal"
-permalink: /personal
-
 ## About me
 I was born in Lafayette, Indiana while my parents were in grad school at Purdue. 
 Since then, I've lived in Davis, CA; Beijing, China; Palo Alto, CA; Tempe, AZ; Bellingham, WA; and, most recently, Atlanta, GA. My favorite among these is Davis.
