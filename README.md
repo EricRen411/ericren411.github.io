@@ -1,4 +1,4 @@
-**Research Interests**: Probability, Statistics
+**Research Interests**: Algebra, Graph Theory, Formal Methods
 
 ---
 
