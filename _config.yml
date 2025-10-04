@@ -1,2 +1,11 @@
 theme: jekyll-theme-minimal
 title: Eric Ren's homepage
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - Personal.md
+  - Meditations_on_the_PCT.md
