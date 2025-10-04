@@ -2,7 +2,7 @@
 
 ---
 
-## Bio  
+## Academic Bio  
 I am a first-year Ph.D. student at the Georgia Institute of Technology. Prior to starting at Georgia Tech, I received my B.S in mathematics at Arizona State University in spring of 2024.
 
 ---
