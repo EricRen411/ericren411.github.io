@@ -14,14 +14,14 @@ My nonacademic interests are reading; hiking; running; strategy games, RPGs, and
 ---
 
 ## Favorite Books:
-Catch 22
-The Symphathizer
-Look to Windward
-The Lathe of Heaven
-Seveneves
+Catch 22  
+The Symphathizer  
+Look to Windward  
+The Lathe of Heaven  
+Seveneves  
 
 ## Favorite Games:
-Civilization V
-Starcraft II
-Disco Elysium
-Fallout: New Vegas
+Civilization V  
+Starcraft II  
+Disco Elysium  
+Fallout: New Vegas  
