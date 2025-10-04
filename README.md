@@ -24,16 +24,16 @@ I am a first-year Ph.D. student at the Georgia Institute of Technology. Prior to
 ---
 
 ## Conference Presentations  
-	-2025		Joint Mathematics Meetings. “Perspicacious lp norm parameters”
+-2025		Joint Mathematics Meetings. “Perspicacious lp norm parameters”
  
-  -2024		(with Sogol Cyrusian, Alex Domat, Mayla Ward) Joint Mathematics Meetings. “Generalized Delta Sets of Numerical Semigroups”
+-2024		(with Sogol Cyrusian, Alex Domat, Mayla Ward) Joint Mathematics Meetings. “Generalized Delta Sets of Numerical Semigroups”
 
--  2023		Joint Mathematics Meetings. “An Improved Upper Bound on Longest-path Transversals”
+-2023		Joint Mathematics Meetings. “An Improved Upper Bound on Longest-path Transversals”
 
 ---
 
 ## Teaching  
-- **Fall 2025**: [Linear Algebra]([https://pages.github.com/](https://math.gatech.edu/courses/math/1554))  
+- **Fall 2025**: [Linear Algebra](https://math.gatech.edu/courses/math/1554) 
 
 ---
 
