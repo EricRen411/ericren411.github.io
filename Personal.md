@@ -1,6 +1,6 @@
 layout: page
 title: "Personal"
-permalink: personal
+permalink: /personal
 
 ## About me
 I was born in Lafayette, Indiana while my parents were in grad school at Purdue. 
