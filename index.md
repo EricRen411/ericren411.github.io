@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 **Research Interests**: Algebra, Graph Theory, Formal Methods
 
 ---
