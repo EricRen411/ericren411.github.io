@@ -5,6 +5,8 @@ title: Meditations on the PCT
 
 I wrote this soon after leaving the trail in 2025 and have edited it minimally since.
 
+---
+
 ## What it is like
 
 	I was often asked on-trail “what it is like” to thruhike. Although this is a lazy question that probably deserves no more than an equally lazy glib quip in response, I’ve nonetheless put considerable thought into how to answer it accurately. This is what I’ve come up with.  
@@ -12,6 +14,8 @@ I wrote this soon after leaving the trail in 2025 and have edited it minimally s
 	Yet among these were moments of startling clarity where I realized that the integral of this life full of mundane moments was changing me in ways that were not mundane at all. The impact lay in the totality of the experience, not any one event, and, although when choosing what to describe one tends to focus on exceptional outlier events, to do so elides the essence of the PCT experience. Compare hiking the PCT to eating a bowl of fried rice. The extraordinary highs--watching the sun rise over the Tehachapi wind farm and the LA aqueduct, cresting Forester Pass, getting a first view of Crater Lake--these are the toppings in the fried rice. They round out the flavor and the character of the dish. But the uncountable moments spent starving and sweating and shivering and hurting and blistering and being rained on and hailed on and sunned on and windblown and bugbitten--these are the rice itself, the main body of the dish. They are what fills you. They are what changed my life.  
 	Because the PCT did change my life, both in a long-term sense and in the short-term sense that I’ve alluded to already. In the short term it meant a life that, though physically demanding, was emotionally and mentally refreshing. As students and practitioners of math we expend our mental energy on problems that are purely abstract, and as young professionals we expend our emotional energy on vague worries whose timescales stretch into the decades. Often we go for weeks without feeling like we have accomplished anything, and even when they do come our accomplishments can feel frustratingly intangible. And almost nobody I’ve met is certain whether they’re getting to where they’re trying to go, or even whether where they’re trying to go is the right place to try to be. On-trail I thought solely about such concrete details as where I would sleep at night, where I would next get water, and how many goddamn mosquitos there were and, in general, worried at most about five days into the future. Each day I accomplished something measurable and immediate, and at the end of each day I usually had the entire five day horizon of my existence planned out with almost no room for doubt. I was always sure where I wanted to be and always knew exactly how to get there. So maybe you can see why when I was on-trail, I went to bed with a battered body, but with an empty and content mind.  
 	It’s too early to say what the long-term changes are, but I’ve noticed some aftereffects that I think will stick. I’m more mindful of the difference between rest and entertainment and of our need for occasional stillness. When I’m still, I’m comfortable being alone with my thoughts, or even having no thoughts at all. I grasp better the relationship between material comfort and happiness. I have a new understanding that I am enriched by taking pride in and developing my physicality. I’m more socially confident and care less about the judgments of others. I’m more comfortable with the prospect of failure and with sincerely working toward the things that I find meaningful. I hide less behind protective layers of irony. I am able to live more and fear less, and that, to me, is the most important change.
+
+---
 
 ## Milestones
 
@@ -21,6 +25,8 @@ I wrote this soon after leaving the trail in 2025 and have edited it minimally s
 	Perhaps now you can understand the humor we felt at the time: that one can wake up and start an unremarkable day and, just halfway through it, find yourself thrust into a mythical role from a kitschy love song. It’s an impossible thing you’ve just done, the songs imply. Its role in the lyrics is to exist only in the sentiment as a grandiose symbol of devotion. To actually do such a thing is unnecessary, absurd, and borderline Quixotic. But all we had done was walk twelve miles.  
 	On the other hand, perhaps now you can also understand the near total absence of comments at the two thousand mile waypoint. All that was remarkable about the one thousand mile waypoint were these jokes, and those only need to be made once.
 	
+---
+
 ## Almost quitting, and not choosing to quit.
 
 	Around the fifth week on-trail near mile four hundred, I decided to quit. We’d recently bumped our daily mileage from fifteen to eighteen, the monotony of the desert had begun to grate on me, and I had gotten through the initial burst of energy that gets so many people through the first bit of an undertaking only to strand them shortly after it runs out. For these reasons, I’d had a rough few days. Each morning I woke up dreading walking, and while I did I thought primarily about how much I hated it. I began talking constantly about all the luxurious things I would do after I “got out,” and finally Scout got so frustrated with my whinging that she told me that if I was consistently that miserable, I should choose to leave.  
