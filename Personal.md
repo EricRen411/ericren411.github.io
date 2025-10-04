@@ -4,4 +4,28 @@ Since then, I've lived in Davis, CA; Beijing, China; Palo Alto, CA; Tempe, AZ; B
 
 ---
 
-In my free time, I read, hike, play strategy games and TTRPGs, and, occasionally, write. In summer of 2026 I will be finishing the Pacific Crest Trail, which I completed three quarters of in 2025 before coming to grad school.
+My nonacademic interests are reading; hiking; running; strategy games, RPGs, and TTRPGs; and, occasionally, writing. In summer of 2026 I will be finishing the Pacific Crest Trail, which I completed three quarters of in 2025 before coming to grad school.
+
+---
+
+## Favorite Books:
+Catch 22
+
+The Symphathizer
+
+Look to Windward
+
+The Lathe of Heaven
+
+Seveneves
+
+## Favorite Games:
+Civilization V
+
+Starcraft II
+
+Disco Elysium
+
+Fallout: New Vegas
+
+
