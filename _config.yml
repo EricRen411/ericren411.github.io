@@ -1,11 +1,24 @@
-theme: jekyll-theme-minimal
-title: Eric Ren's homepage
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - README.md
   - Personal.md
   - Meditations_on_the_PCT.md
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: Personal
+    link: ./Personal.html
+  - name: Meditations
+    link: ./Meditations_on_the_PCT.html
+
+title: Eric Ren’s homepage
