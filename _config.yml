@@ -10,6 +10,8 @@ include:
   - README.md
   - Personal.md
   - Meditations_on_the_PCT.md
+  - Getting_Under_the_Skin.md
+  - Chrysalis.md
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
