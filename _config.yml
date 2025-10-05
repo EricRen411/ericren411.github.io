@@ -18,7 +18,12 @@ navigation:
     link: ./index.html
   - name: Personal
     link: ./Personal.html
-  - name: Meditations
-    link: ./Meditations_on_the_PCT.html
+  - sublist:
+    - name: Meditations on the PCT
+      link: ./Meditations_on_the_PCT.html
+    - name: Crysalis
+      link: ./Chrysalis.html
+    - name: Getting Under the Skin
+      link: ./Getting_Under_the_Skin.html
 
 title: Eric Ren’s homepage
