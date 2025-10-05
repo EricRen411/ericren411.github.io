@@ -7,7 +7,7 @@ relative_links:
   collections: true
 
 include:
-  - README.md
+  - index.md
   - Personal.md
   - Meditations_on_the_PCT.md
   - Getting_Under_the_Skin.md
@@ -16,7 +16,7 @@ include:
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 navigation:
-  - name: Home
+  - name: Academic
     link: ./index.html
   - name: Personal
     link: ./Personal.html
