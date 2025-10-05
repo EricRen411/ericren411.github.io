@@ -20,7 +20,7 @@ navigation:
     link: ./index.html
   - name: Personal
     link: ./Personal.html
-  - sublist:
+    sublist:
     - name: Meditations on the PCT
       link: ./Meditations_on_the_PCT.html
     - name: Chrysalis
