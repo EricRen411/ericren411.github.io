@@ -5,7 +5,7 @@ title: Chrysalis
 
 ## Chrysalis
 
-**2:30 am, on a Monday.**       
+**2:30 am, on a Monday.**        
 &emsp; Stephanie couldn’t feel her face.    
 &emsp; It’d become a pretty typical feeling for her on Sunday nights (well, Monday morning now, she supposed) over the summer, walking around San Marcos drunk with about ten of the eighteen other students at the Texas State pre-PhD feeder program. She could never feel her face past the sixth or seventh. Drinking was fun that way.    
 &emsp; Giggling, she slapped her left palm lightly on her cheek again and let her jaw muscles slacken. She pushed the heel of her hand in until she could feel the hard outline of her teeth against it. Still couldn’t feel her face. Her cheek felt like a cotton blanket between her teeth and her hand. Soft and squishy.      
@@ -49,7 +49,7 @@ title: Chrysalis
 &emsp; Plus, she was going to be late already. Dr. Sun was fond of reminding her how busy a professor she was and how little patience she had for tardy students.          
 &emsp; Stepping over the object, she left her apartment and turned right toward the Texas State Department of Statistics.      
  
-**1:14 pm.**
+**1:14 pm.**        
 &emsp; The meeting went on about an hour longer than planned, as meetings with Dr. Sun easily could. Feeling too exhausted to cook, Stephanie decided to go to the nearby dining hall for lunch to use up her free stipend-subsidized meal for the day. As she made her way across the nearly barren TXST campus, she pondered the dressing-down Dr. Sun had dished out that had extended out the meeting so long.           
 &emsp; It had begun with an inevitable scolding for ‘forgetting’ to finish the summary that extended, as usual, into a pontification about the slovenly habits that so typically undermined promising researchers. Said monologue alone required about half an hour of the busy Dr. Sun’s and the frazzled Stephanie Martin’s time before Dr. Sun could refocus and begin the exhaustive scrutiny of every crevice of Stephanie’s week’s work required to expound at length on exactly why each part of it was wrong.           
 &emsp; Sun, though severe, did ultimately mean well, however, and if Stephanie was honest with herself she’d have to admit that all of the professor’s comments would probably prove quite helpful. Still, if only her advisor wasn’t so particular… or even just gave her a compliment every now and then. Stephanie would settle for a monthly compliment.      
@@ -110,7 +110,7 @@ title: Chrysalis
 &emsp; The Chrysalis said nothing. The silence grew long and pregnant, and eventually Stephanie focused on the rays of light flickering across the shimmering brown surface. The top of the Chrysalis rose and fell peacefully under her palm, and soon Stephanie realized how quickly she’d been breathing and how tense her shoulders were. She let muscles slacken and her lungs slow, feeling the undulation beneath her fingers, and suddenly felt tears behind her eyes, threatening to burst from her tear ducts and drip down onto the floor in front of her.      
 &emsp; “Surely,” she whispered.           
  
-**8:29 pm.**
+**8:29 pm.**     
 &emsp; The Chrysalis had said nothing more to her, and after a while Stephanie had gotten up and cooked herself a generous bowl of tomatoes scrambled with eggs upon Chinese wheat noodles. It was a simple but filling meal, taught to her by an exchange student in her sophomore year, and Stephanie had finished it feeling soothed, with dry eyes.           
 &emsp; Sitting on the balcony railing with her legs dangling over the edge, she turned her phone end over end in her hands. It was nearly the time of day when she and her mom agreed they would call each other if they did. She swiped through her phone lock screen and looked at the call history. Three weeks since they’d spoken. Last time Stephanie had initiated a call was seven weeks before that.       
 &emsp; Deliberately, Stephanie thumbed her phone screen until it showed her the keypad and tapped in her mom’s number. She pressed the green button, put her headphones in, and listened to the digital drone of the dial tone. It only took a single ring.      
@@ -127,7 +127,7 @@ title: Chrysalis
 &emsp; &lt;I think you should go to bed early,&rt; it murmured gently. &lt;I think you’ll fall asleep pretty quick.&rt;            
 &emsp; Part of Stephanie preferred a screwdriver. Or six. Followed by some screaming into her pillow, or a three mile run. But instead, she brushed her teeth. Lay down in her bed. And, after just forty-seven seconds under the covers, she fell asleep.       
 
-**12:34 pm, on a Tuesday.**
+**12:34 pm, on a Tuesday.**       
 &emsp; “So you talked to it, then?” Anjelica said, not looking up from her food as Stephanie set down her things and took the seat across from the older student.        
 &emsp; “Yeah, twice,” said Stephanie. “First time it gave me therapist-talk; second time it just put me to bed.”       
 &emsp; Anjelica snorted. “Yeah, sounds about right,” she said. “It makes you do all the work yourself.”       
@@ -190,7 +190,7 @@ title: Chrysalis
 &emsp; “Yeah, that too. And I don’t think you’re a coward. You’re a strong person too. You can visit for a week and manage to leave again.”         
 &emsp; Stephanie cracked him a wan smile. “Maybe,” she said. “When you put it that way. Maybe I can.”      
 
-**9:01 pm.**
+**9:01 pm.**       
 &emsp; It was dark by the time Stephanie had finished walking with Kanjam and had come back to her apartment. As she fumbled for the light in the unlit room, she wondered what exactly it was that the Chrysalis was supposed to birth. How exactly did that work, anyway? Would it just… open at some point? Would she wake up the morning after next to whatever was inside?     
 &emsp; The light flicked on, illuminating the room and the Chrysalis in the center. Stephanie gasped.        
 &emsp; The Chrysalis hadn’t changed overnight, and Stephanie hadn’t seen it since she’d left home in the morning. It was about as tall as her navel now and about the shape of an egg. The opaque surface had turned slightly translucent, as if the Chrysalis was a balloon whose skin had stretched thin as someone had blown it up. Inside, Stephanie could make out the floating form of a curled-up humanoid, about the size of a twelve-year-old. Its eyes were closed, and its arms were folded so closely into its body that Stephanie thought for a moment that it was sucking its thumb.        
@@ -215,7 +215,7 @@ title: Chrysalis
 &emsp; The Chrysalis shook lightly. Stephanie felt its trembling beneath her fingers.         
 &emsp; &lt;Tomorrow, day three. We’ll see.&rt;          
 
-**8:20 pm, on a Wednesday.**
+**8:20 pm, on a Wednesday.**         
 &emsp; Sitting cross-legged behind the railing of her balcony, Stephanie tried to decide whether to call her mom again. From below, in the building’s lounge, the sounds of a raucous birthday celebration floated up toward her ears. She wished she couldn’t hear it. Plenty of alcohol there, surely.        
 &emsp; She’d woken up feeling confident, sure that she’d be able, at 8:30, to tie everything up nice and neat. She’d call her mom, they’d work things out, she’d go back inside, and the Chrysalis would be gone. The workday had been exceptionally productive, so much so that Stephanie had untangled a snag in her research that had plagued her for several weeks and cleared her to-do list for the first time in months. But as she finished her dinner and cleaned up the dishes in her kitchenette, the usual anxieties that had left her alone all day had come flooding back to her mind.         
 &emsp; What could Kanjam know anyway? What could she know? How could she be sure that all the things they’d talked about were true? What if her mom was disappointed in her? What if her mom couldn’t manage on her own? Would it be Stephanie’s fault? Would--
@@ -301,7 +301,7 @@ Her phone awoke, interrupting her reverie. “Country roads…” it sang, belti
 &emsp; Stephanie didn’t know. She felt too tired to know. So much had happened in the past few days, with the Chrysalis and with Kanjam and with Mom and with Anjelica… maybe in a few hours she would be dead, but that was for in-a-few-hours-Stephanie-Martin to handle. Maybe now… maybe now she would go to sleep.     
 &emsp; The pocketknife slipped out of her loosening grip, landing softly onto her comforter. Stephanie felt her eyes close, then felt nothing.       
 
-**6 am, on a Thursday.**
+**6 am, on a Thursday.**        
 &emsp; One moment, Stephanie was unconscious; the next, she was awake. She breathed in deeply as wakefulness crashed through her like a disintegrating derailed train. Her hands roved frantically around the bed for the knife. Closing her fingers around it, she leapt out of bed with it held in front of her and looked up at where she knew the Chrysalis to be.          
 &emsp; The tip of it nearly brushed the ceiling now, and its skin looked almost fully transparent. Inside, Stephanie could see the form of an adult human woman. It wore the attire of a midwestern farmer, and its head, covered in the brown curls that only Stephanie had developed in her family, bobbed up and down as the Chrysalis breathed. Its face looked about fifty, and its hair was slashed with streaks of grey.       
 &emsp; “You’re still here, huh?” said Stephanie. She kept her knees bent slightly, knife at ready.     
