@@ -29,7 +29,7 @@ title: Chrysalis
 &emsp; “What’s that she’s holding?” she heard someone say. “Can someone get her to drop it? What if she tries to like, eat it or something?” A pause. “God, she’s so far gone. Come on, let’s get her fingers open…”         
 &emsp; “No, leave it.” came another voice. “It’s her Chrysalis.”          
  
-**7:20 am.**
+**7:20 am.**           
 &emsp; Her ears rang. There was a sharp, insistent trilling noise that originated from something next to her head, pulsing in sync with the pain in her head. Groaning, Stephanie twitched her eyelids and got ready to push herself upright. She had to sit up before turning off her alarm, or she’d fall right back to sleep.        
 &emsp; With Herculean effort she slid her arm under her prone body and drove her elbow into her mattress, turning her body over to face the ceiling. The streaky beige paint of the roof of her student-housing studio apartment greeted her as she finally got her eyes fully open. Reclining half-upright on her elbows, she let out a long sigh and began to assess the damages.          
 &emsp; Legs… like lead weights.       
@@ -85,27 +85,27 @@ title: Chrysalis
 &emsp; She reached out and laid a hand on top. Nothing happened.         
 &emsp; “Hi,” she said. “Hi Chrysalis… I’m Stephanie.” Still, nothing happened.         
 &emsp; “I’m here to talk to you,” she continued. “Because I think I’m supposed to and Anjelica won’t answer more of my questions unless I do. I… can you hear me? Am I—"        
-&emsp; <Hello, Stephanie>, said the Chrysalis. It spoke directly in her mind, and Stephanie stiffened, nearly letting her hand go. All of a sudden, she really needed to pee.            
-&emsp; <Apologies>. it said again. <I scared you.>. Its voice was breathy, like that of a library patron still deciding whether to whisper. Eerily melodic, it made Stephanie imagine that, in the Chrysalis, there were four people talking and one person singing along with them.         
+&emsp; &lt;Hello, Stephanie&rt;, said the Chrysalis. It spoke directly in her mind, and Stephanie stiffened, nearly letting her hand go. All of a sudden, she really needed to pee.            
+&emsp; &lt;Apologies&rt;. it said again. &lt;I scared you.&rt;. Its voice was breathy, like that of a library patron still deciding whether to whisper. Eerily melodic, it made Stephanie imagine that, in the Chrysalis, there were four people talking and one person singing along with them.         
 &emsp; “No, not at all,” said Stephanie. “You’re all good.”       
-&emsp; <I’m glad you’re finally coming to terms.>       
+&emsp; &lt;I’m glad you’re finally coming to terms.&rt;       
 &emsp; “Have I?” said Stephanie. “What exactly have I supposedly come to terms with?”          
-&emsp; <Your lies.>, said the Chrysalis. <Your avoidance of your problems>.        
+&emsp; &lt;Your lies.&rt;, said the Chrysalis. &lt;Your avoidance of your problems&rt;.        
 &emsp; “Yeah,” said Stephanie. “Well, what about those things? Listen, can I ask you something? What are you, anyway?”       
-&emsp; <I’m you>, the Chrysalis said.        
+&emsp; &lt;I’m you&rt;, the Chrysalis said.        
 &emsp; “You’re an oblate spheroid of questionably biological matter with telepathic powers and curious optical properties.”        
-&emsp; <Mm. I spoke imprecisely. I’m obviously not a twenty-year-old human female, but I refract parts of your identity through a lens meant to help you accept things within you that you can’t, or won’t, reach for alone. >     
+&emsp; &lt;Mm. I spoke imprecisely. I’m obviously not a twenty-year-old human female, but I refract parts of your identity through a lens meant to help you accept things within you that you can’t, or won’t, reach for alone. &rt;     
 &emsp; “Okay, so what is it inside me that you’re refracting that I won’t reach for alone?”        
-&emsp; <What is it that you think?>       
+&emsp; &lt;What is it that you think?&rt;       
 &emsp; “Tch,” said Stephanie. “This is just like therapy all over again.” Exhaling forcefully, she ran the hand not on the Chrysalis through her brown curls.       
 &emsp; “The fact that I can’t bring myself to tell my mom where I actually am,” she said. “Which, really, is a specific instance of the general fear that I’m not doing or being what it is that I’m supposed to be doing and being.” She paused.        
-&emsp; <You have more to say.>           
+&emsp; &lt;You have more to say.&rt;           
 &emsp; “But really, I’ve known about this since I was, like, 12,” she continued. “It’s been kind of obvious when I think about myself, and honestly a pretty goddamn textbook problem. Do I really need the Chrysalis to get over it? I get by on my own.”        
-&emsp; <You’ve lied to her about what state you’ve been in for the past two months. She thinks you’re twelve hundred miles away from where you really are.>     
+&emsp; &lt;You’ve lied to her about what state you’ve been in for the past two months. She thinks you’re twelve hundred miles away from where you really are.&rt;     
 &emsp; “Yeah, and so what? Why does she need to know? How is it any of her business?”       
-&emsp; <And when the summer ends?>        
+&emsp; &lt;And when the summer ends?&rt;        
 &emsp; “We’ll cross that damn bridge when it comes to it. More excuses, or something. Hell, Maybe I’ve found my calling in traveling youth evangelism and won’t be coming home for another two years.” She took a deep breath. “Hell, maybe I just ghost her and never deal with it at all. Fuck her anyway. I don’t care about her.”       
-&emsp; <Stop living in fantasies, Stephanie.>         
+&emsp; &lt;Stop living in fantasies, Stephanie.&rt;         
 &emsp; “What, what’s fantasy about it? I get my PhD alone and become a badass data scientist, all by myself. All by myself, with no parents and no siblings and no family at all. Surely, I can do that.”          
 &emsp; The Chrysalis said nothing. The silence grew long and pregnant, and eventually Stephanie focused on the rays of light flickering across the shimmering brown surface. The top of the Chrysalis rose and fell peacefully under her palm, and soon Stephanie realized how quickly she’d been breathing and how tense her shoulders were. She let muscles slacken and her lungs slow, feeling the undulation beneath her fingers, and suddenly felt tears behind her eyes, threatening to burst from her tear ducts and drip down onto the floor in front of her.      
 &emsp; “Surely,” she whispered.           
@@ -124,7 +124,7 @@ title: Chrysalis
 &emsp; Stephanie took the headphones out of her ears and buried her face in her hands, listening to the tinny voice of her mother struggling out through the tiny Bluetooth speakers as it tried to reach her ears. Peeking out through the cracks between her fingers, she could see the gray flecks in the cracked pavement a story below. Her vision swam for a moment, sending a jolt of momentary panic through her stomach as she regained her balance. Putting the earbuds back in, she swung her right leg over the railing and made to get off the balcony and go back inside.          
 &emsp; “...and we’ll get the sorghum planted, try to capitalize on those hippies,” her mom was saying, “been thinking of wheatgrass for the same reason.” Stephanie tuned her out again and leaned against the frame of the sliding balcony door, watching the Chrysalis breathe. The light faded as Stephanie’s mom talked, dimming quickly as day changed to night. Eventually, at about 9:30, her mom signed off, leaving Stephanie standing alone in the dark. With the lights in her apartment off, she could only make out the faint outline of the Chrysalis’ form. She walked over to where it was, knelt down, and laid her hand back on its smooth top.          
 &emsp; “What do I do now?” she whispered.           
-&emsp; <I think you should go to bed early,> it murmured gently. <I think you’ll fall asleep pretty quick.>            
+&emsp; &lt;I think you should go to bed early,&rt; it murmured gently. &lt;I think you’ll fall asleep pretty quick.&rt;            
 &emsp; Part of Stephanie preferred a screwdriver. Or six. Followed by some screaming into her pillow, or a three mile run. But instead, she brushed her teeth. Lay down in her bed. And, after just forty-seven seconds under the covers, she fell asleep.       
 
 **12:34 pm, on a Tuesday.**
@@ -150,7 +150,7 @@ title: Chrysalis
 &emsp; “I don’t think anybody here understands Anjelica,” said Kanjam. “But anyway, I’m glad. What’s going on with the Chrysalis?”        
 &emsp; Stephanie opened her mouth to speak. “It--”          
 &emsp; A searing pain slashed through her head, nearly causing her to fall over in pain. She felt someone had stuffed a chunk of dry ice into her skull; it felt both freezing and burning at the same time. Crying out, she staggered into a nearby telephone pole and clutched her head in her hands.       
-&emsp; <He can’t know yet,> she heard in her head. <It isn’t his time.>         
+&emsp; &lt;He can’t know yet,&rt; she heard in her head. &lt;It isn’t his time.&rt;         
 &emsp; “Stephanie?” Kanjam asked. “Are you okay?”         
 &emsp; “I… I can’t tell you about the Chrysalis,” she said. “Not yet. The problem it’s here for, though,” she said, breathing heavily. “The problem is my mom.”          
 &emsp; “O…kay…” said Kanjam. “Well, I definitely do think it’s long overdue that you talked to someone about the problem with your mom.”           
@@ -195,25 +195,25 @@ title: Chrysalis
 &emsp; The light flicked on, illuminating the room and the Chrysalis in the center. Stephanie gasped.        
 &emsp; The Chrysalis hadn’t changed overnight, and Stephanie hadn’t seen it since she’d left home in the morning. It was about as tall as her navel now and about the shape of an egg. The opaque surface had turned slightly translucent, as if the Chrysalis was a balloon whose skin had stretched thin as someone had blown it up. Inside, Stephanie could make out the floating form of a curled-up humanoid, about the size of a twelve-year-old. Its eyes were closed, and its arms were folded so closely into its body that Stephanie thought for a moment that it was sucking its thumb.        
 &emsp; She put her hand on the Chrysalis and waited.      
-&emsp; <You’ve worked through some things,” it said.        
+&emsp; &lt;You’ve worked through some things,” it said.        
 &emsp; “Yeah,” said Stephanie. “Some of them.”       
-&emsp; <Good,> said the Chrysalis. <That moves things along for both of us. Makes it easier for everyone.> It paused. <It’s not good for people to stay in Chrysalis for too long past the fourth day,> it said. <Most people finish resolving their issues before then,> it said, <and their Chrysalis just goes away quietly. Past the fourth day, bad things start to happen. So I’m glad you’re working on things now.>    
+&emsp; &lt;Good,&rt; said the Chrysalis. &lt;That moves things along for both of us. Makes it easier for everyone.&rt; It paused. &lt;It’s not good for people to stay in Chrysalis for too long past the fourth day,&rt; it said. &lt;Most people finish resolving their issues before then,&rt; it said, &lt;and their Chrysalis just goes away quietly. Past the fourth day, bad things start to happen. So I’m glad you’re working on things now.&rt;    
 &emsp; “Bad things?”   
-&emsp; <Yes.>       
+&emsp; &lt;Yes.&rt;       
 &emsp; “How bad are the bad things that happen when the fourth day passes?”       
-&emsp; <Bad.>        
+&emsp; &lt;Bad.&rt;        
 &emsp; “What exactly is it that happens?”       
 &emsp; A long silence.       
-&emsp; <I hatch>, it finally said.     
+&emsp; &lt;I hatch&rt;, it finally said.     
 &emsp; “How bad is that?”         
-&emsp; <Bad,> it said.       
+&emsp; &lt;Bad,&rt; it said.       
 &emsp; “Okay, fuck you too then.”       
-&emsp; <But they only happen when one is still at an impasse with themselves on the fourth day,> the Chrysalis continued. <That seldom occurs. Perhaps once in a million Chrysalis.> The Chrysalis seemed to stop its breathing for a moment. <I don’t think it will happen to you.>      
+&emsp; &lt;But they only happen when one is still at an impasse with themselves on the fourth day,&rt; the Chrysalis continued. &lt;That seldom occurs. Perhaps once in a million Chrysalis.&rt; The Chrysalis seemed to stop its breathing for a moment. &lt;I don’t think it will happen to you.&rt;      
 &emsp; “I… yeah,” said Stephanie. “No bad things for me. Like you said, I worked things out with Kanjam tonight.”      
-&emsp; <Like you said. Some of them>.     
+&emsp; &lt;Like you said. Some of them&rt;.     
 &emsp; “Enough of them,” said Stephanie. “I’ll be through soon. I’m not at any sort of impasse.”         
 &emsp; The Chrysalis shook lightly. Stephanie felt its trembling beneath her fingers.         
-&emsp; <Tomorrow, day three. We’ll see.>          
+&emsp; &lt;Tomorrow, day three. We’ll see.&rt;          
 
 **8:20 pm, on a Wednesday.**
 &emsp; Sitting cross-legged behind the railing of her balcony, Stephanie tried to decide whether to call her mom again. From below, in the building’s lounge, the sounds of a raucous birthday celebration floated up toward her ears. She wished she couldn’t hear it. Plenty of alcohol there, surely.        
@@ -249,7 +249,7 @@ Her phone awoke, interrupting her reverie. “Country roads…” it sang, belti
 &emsp; “Yeah,” said Stephanie. She bit down harder on her lip. “Bye.”       
 
 &emsp; The Chrysalis was the same size when she came back in from the balcony. Wiping away sweat from her face with her left forearm, Stephanie laid her right palm atop it again.       
-&emsp; <You appear to be at an impasse,> it said.          
+&emsp; &lt;You appear to be at an impasse,&rt; it said.          
 &emsp; “Shut up,” said Stephanie. Silence. The Chrysalis’ surface rose and fell, seemingly in tandem with Stephanie’s own breathing.          
 &emsp; “What did talking with Kanjam even do for me anyway?” she said finally. “Felt better for a night, but now I’m back in the same place I’ve been for weeks. There’s clearly been only one solution to this problem the whole time. One good one anyway.”      
 &emsp; The Chrysalis didn’t answer.       
@@ -260,9 +260,9 @@ Her phone awoke, interrupting her reverie. “Country roads…” it sang, belti
 &emsp; “How long do I have, anyway?”         
 &emsp; The Chrysalis didn’t answer.            
 &emsp; “The fourth day, right? Tomorrow?”        
-&emsp; <If you are to decide, yes. It must be tomorrow,> it said.         
+&emsp; &lt;If you are to decide, yes. It must be tomorrow,&rt; it said.         
 &emsp; “Can you help me?” Stephanie asked. “Anything?”       
-&emsp; <Not until then,> it said.       
+&emsp; &lt;Not until then,&rt; it said.       
 &emsp; “Tch,” said Stephanie, taking her hand off the Chrysalis. Turning around, she headed downstairs to go to the birthday party.
 	
 &emsp; The first thing she saw as she walked in was Eric, cutting limes again with his beloved pocketknife over paper towels on the table directly in front of her. Behind him, among others, sat Anjelica on a couch, swirling what appeared to be a glass of tequila and steadfastly ignoring the advances of an eager-looking young Russian man sitting on the couch’s armrest. Striding past the fruit butchery in the middle of the room, Stephanie took the other seat on the couch--directly between Anjelica and the man, who was explaining to Anjelica the details of his latest publication on the Galois symmetries of 3-manifolds.     
